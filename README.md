@@ -1,3 +1,2 @@
 # gitskills
-Creating a new branch is quick & simple.
-Conflict test in master branch.
+Creating a new branch is quick and simple.
